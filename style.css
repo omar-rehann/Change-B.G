@@ -1,0 +1,20 @@
+body {
+    background-color: #ddd;
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.change {
+    background-color: red;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 100px;
+    margin: 10px 10px;
+    cursor: pointer;
+}
